@@ -1,7 +1,7 @@
 # Tianyicraft音乐附加包
 ## **免责声明：本资源包由洛天依粉丝创建，与洛天依任何官方无关。所有内容均出于对角色和社区的热爱和尊重。**
 ## 这是什么？
-- Tianyicraft音乐附加包是存储了世界首位中文虚拟歌手洛天依(Luo Tianyi)的歌曲的，适用于 Minecraft 1.20+ 的资源包，搭配 [Tianyicraft 主资源包](https://github.com/Pearl-Luo/Tianyicraft)食用更佳～
+- Tianyicraft 音乐附加包是存储了世界首位中文虚拟歌手洛天依(Luo Tianyi)的歌曲的，适用于 Minecraft 1.20+ 的资源包，搭配 [Tianyicraft 主资源包](https://github.com/Pearl-Luo/Tianyicraft)食用更佳～
 ## Star History
 喜欢的话别忘了点一个 Star 喵~
 [![Star History Chart](https://api.star-history.com/svg?repos=Cartethyia-0612/Tianyicraft-Soundpack&type=date&legend=top-left)](https://www.star-history.com/?use_xbridge3=true&loader_name=forest&need_sec_link=1&sec_link_scene=im&theme=dark#Cartethyia-0612/Tianyicraft-Soundpack&type=date&legend=top-left)
