@@ -1,0 +1,8 @@
+{
+    "music.menu": {
+        "replace": true,
+        "sounds": [
+            "tianyi/lg"
+        ]
+    }
+}
