@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description":"让玩MC的你也有天依的陪伴~",
+        "name": "Tianyicraft 音乐附加包",
+        "uuid": "be66ccff-b435-4138-ad89-d9c7b711c281",
+        "version": [712,26,1],
+        "min_engine_version": [1, 17, 0]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "4a1b3a1a-0712-4ead-a3b2-87796e8485a2",
+            "version": [0, 0, 1]
+        }
+   ]
+}
