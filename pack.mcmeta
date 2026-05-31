@@ -1,0 +1,15 @@
+{
+    "pack": {
+        "pack_format": 34,
+        "supported_formats": {
+            "min_inclusive": 15,
+            "max_inclusive": 712
+        },
+        "description": "Tianyicraft 音乐附加包"
+    },
+    "author": [
+        "B-0712天依號A359",
+        "鲈鱼666"
+    ],
+    "home": "https://space.bilibili.com/636419039"
+}
