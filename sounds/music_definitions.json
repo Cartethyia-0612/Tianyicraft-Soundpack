@@ -233,5 +233,10 @@
         "event_name": "music.game",
         "min_delay": 60,
         "max_delay": 180
+    },
+    "sulfur_caves": {
+        "event_name": "music.game",
+        "min_delay": 60,
+        "max_delay": 180
     }
 }
