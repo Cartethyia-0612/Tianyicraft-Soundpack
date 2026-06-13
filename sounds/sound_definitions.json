@@ -328,6 +328,31 @@
                 "name":"sounds/tianyi/menu/pilang",
                 "stream":true,
                 "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/yxhm",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/zhyhy",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/huang",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/cs",
+                "stream":true,
+                "load_on_low_memory":true
+            },
+            {
+                "name":"sounds/tianyi/menu/ptg",
+                "stream":true,
+                "load_on_low_memory":true
             }
         ]
     },
