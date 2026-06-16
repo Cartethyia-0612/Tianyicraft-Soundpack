@@ -683,6 +683,29 @@
             "tianyi/yuemingp"
         ]
     },
+    "music.overworld.frozen_peaks": {
+        "replace": true,
+        "sounds": [
+            "tianyi/hudiepiano",
+            "tianyi/guangyuyinpiano",
+            "tianyi/youyigeyewanpiano",
+            "tianyi/lianaisep",
+            "tianyi/yibanp",
+            "tianyi/wanfenp",
+            "tianyi/zuiwanmeip",
+            "tianyi/cikep",
+            "tianyi/zaishengp",
+            "tianyi/xiyoup",
+            "tianyi/66ccffp",
+            "tianyi/gxsfp",
+            "tianyi/ymqxp",
+            "tianyi/syyp",
+            "tianyi/xyp",
+            "tianyi/djbtrp",
+            "tianyi/yhwp",
+            "tianyi/yuemingp"
+        ]
+    },
     "music.under_water": {
         "replace": true,
         "sounds": [
