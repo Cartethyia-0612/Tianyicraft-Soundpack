@@ -158,44 +158,13 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.desert": {
-        "replace": true,
-        "sounds": [
-            "tianyi/hudiepiano",
-            "tianyi/guangyuyinpiano",
-            "tianyi/youyigeyewanpiano",
-            "tianyi/lianaisep",
-            "tianyi/yibanp",
-            "tianyi/wanfenp",
-            "tianyi/zuiwanmeip",
-            "tianyi/cikep",
-            "tianyi/zaishengp",
-            "tianyi/xiyoup",
-            "tianyi/66ccffp",
-            "tianyi/gxsfp",
-            "tianyi/ymqxp",
-            "tianyi/syyp",
-            "tianyi/xyp",
-            "tianyi/djbtrp",
-            "tianyi/yhwp",
-            "tianyi/yuemingp"
-        ]
-    },
     "music.dragon": {
         "replace": true,
         "sounds": [
             "tianyi/dala"
         ]
     },
-    "music.nether.basalt.deltas": {
-        "replace": true,
-        "sounds": [
-            "tianyi/jtjmp",
-            "tianyi/aloudp",
-            "tianyi/dzqyp"
-        ]
-    },
-    "music.nether.crimson.forest": {
+    "music.nether.basalt_deltas": {
         "replace": true,
         "sounds": [
             "tianyi/jtjmp",
@@ -211,23 +180,7 @@
             "tianyi/dzqyp"
         ]
     },
-    "music.nether.basalt_deltas": {
-        "replace": true,
-        "sounds": [
-            "tianyi/jtjmp",
-            "tianyi/aloudp",
-            "tianyi/dzqyp"
-        ]
-    },
     "music.nether.nether_wastes": {
-        "replace": true,
-        "sounds": [
-            "tianyi/jtjmp",
-            "tianyi/aloudp",
-            "tianyi/dzqyp"
-        ]
-    },
-    "music.nether.soulsand_vallery": {
         "replace": true,
         "sounds": [
             "tianyi/jtjmp",
@@ -343,6 +296,29 @@
             "tianyi/yuemingp"
         ]
     },
+    "music.overworld.desert": {
+        "replace": true,
+        "sounds": [
+            "tianyi/hudiepiano",
+            "tianyi/guangyuyinpiano",
+            "tianyi/youyigeyewanpiano",
+            "tianyi/lianaisep",
+            "tianyi/yibanp",
+            "tianyi/wanfenp",
+            "tianyi/zuiwanmeip",
+            "tianyi/cikep",
+            "tianyi/zaishengp",
+            "tianyi/xiyoup",
+            "tianyi/66ccffp",
+            "tianyi/gxsfp",
+            "tianyi/ymqxp",
+            "tianyi/syyp",
+            "tianyi/xyp",
+            "tianyi/djbtrp",
+            "tianyi/yhwp",
+            "tianyi/yuemingp"
+        ]
+    },
     "music.overworld.dripstone_caves": {
         "replace": true,
         "sounds": [
@@ -366,7 +342,7 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.flower_forset": {
+    "music.overworld.flower_forest": {
         "replace": true,
         "sounds": [
             "tianyi/hudiepiano",
@@ -412,7 +388,7 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.frozen.peaks": {
+    "music.overworld.frozen_peaks": {
         "replace": true,
         "sounds": [
             "tianyi/hudiepiano",
@@ -596,7 +572,7 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.sparse.jungle": {
+    "music.overworld.sparse_jungle": {
         "replace": true,
         "sounds": [
             "tianyi/hudiepiano",
@@ -642,29 +618,6 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.swamp": {
-        "replace": true,
-        "sounds": [
-            "tianyi/hudiepiano",
-            "tianyi/guangyuyinpiano",
-            "tianyi/youyigeyewanpiano",
-            "tianyi/lianaisep",
-            "tianyi/yibanp",
-            "tianyi/wanfenp",
-            "tianyi/zuiwanmeip",
-            "tianyi/cikep",
-            "tianyi/zaishengp",
-            "tianyi/xiyoup",
-            "tianyi/66ccffp",
-            "tianyi/gxsfp",
-            "tianyi/ymqxp",
-            "tianyi/syyp",
-            "tianyi/xyp",
-            "tianyi/djbtrp",
-            "tianyi/yhwp",
-            "tianyi/yuemingp"
-        ]
-    },
     "music.overworld.sulfur_caves": {
         "replace": true,
         "sounds": [
@@ -688,7 +641,7 @@
             "tianyi/yuemingp"
         ]
     },
-    "music.overworld.frozen_peaks": {
+    "music.overworld.swamp": {
         "replace": true,
         "sounds": [
             "tianyi/hudiepiano",
