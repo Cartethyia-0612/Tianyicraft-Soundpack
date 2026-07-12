@@ -4,6 +4,8 @@
         "sounds": [
             "tianyi/xiyoujiuzhou",
             "tianyi/hudie",
+            "tianyi/zz",
+            "tianyi/fzz",
             "tianyi/zaishengrecallcn",
             "tianyi/zaishengjp",
             "tianyi/dazaiqianyuan",
@@ -73,7 +75,15 @@
             "tianyi/zhyhy",
             "tianyi/huang",
             "tianyi/cs",
-            "tianyi/ptg"
+            "tianyi/ptg",
+            "tianyi/cgyygy",
+            "tianyi/maoer",
+            "tianyi/fcg",
+            "tianyi/lengjing",
+            "tianyi/difu",
+            "tianyi/xiny",
+            "tianyi/wcs",
+            "tianyi/ybc"
         ]
     },
     "music.credits": {
